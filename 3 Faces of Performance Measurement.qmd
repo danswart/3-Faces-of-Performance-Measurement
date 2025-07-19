@@ -2,7 +2,7 @@
 title: "3 Faces of Performance Measurement"
 format: 
   html: 
-    css: swart-20250327.css
+    css: swart.css
 ---
 
 # Detailed Summary: "The Three Faces of Performance Measurement"
